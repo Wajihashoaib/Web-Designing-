@@ -22,7 +22,7 @@
    be an unordered list.
 5. Prints an h1 level heading followed by a horizontal line whose width is 100%. Below the horizontal 
    line print a paragraph relating to the text in the heading.
-6. Print some preformatted text of your choosing. (hint: use the <pre> tag)
+6. Print some preformatted text of your choosing.
 7. Print a long quote and a short quote. Cite the author of each quote.
 8. Print some deleted and inserted text of your choosing.
 9. Print a definition list with 5 items.
